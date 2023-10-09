@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "594927917933",
+    "project_id": "fir-authpractice-1c388",
+    "storage_bucket": "fir-authpractice-1c388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594927917933:android:b887760f93b37c73d0d864",
+        "android_client_info": {
+          "package_name": "com.example.facebook_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP4V7i1h78MUWIXRf_xf6RE7Z_7AwcwTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594927917933:android:f49af8ded7a6b222d0d864",
+        "android_client_info": {
+          "package_name": "com.example.twitter_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP4V7i1h78MUWIXRf_xf6RE7Z_7AwcwTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
